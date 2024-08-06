@@ -1,0 +1,22 @@
+{
+  "abc": {
+    "name": "ABC",
+    "password": "$2b$10$JDOyxt6AXhwdCeKqfOa6XOtADbMLIoTKuSzes4s7iIIlMKRANJtVK"
+  },
+  "test": {
+    "name": "TEST",
+    "password": "$2b$10$vd/YMmzVb5TmrpsnmEhExeNPZO4XyqnarCOv17o2X2oJ4Tsvp0SvO"
+  },
+  "hpc": {
+    "name": "hpc",
+    "password": "$2b$10$gEkhOpQ7zVATJlojUrOHMe6hj6jFN2YSCsZlaubvEEnQG4QKkMt/G"
+  },
+  "Azzy": {
+    "name": "Azzy",
+    "password": "$2b$10$SsTKFGdYE7Y7lkBEc5AvYeYs2up18K8Di5Z58xhB6arSHJPoMce92"
+  },
+  "jason1": {
+    "name": "123",
+    "password": "$2b$10$itnkCo3Md9s3i/Vu7.PyGu9cgx7gvnVjkvxFId0Y1X0vFmUeBaeR6"
+  }
+}
